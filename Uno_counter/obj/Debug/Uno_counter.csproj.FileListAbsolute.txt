@@ -1,0 +1,6 @@
+C:\Users\hidra\source\repos\Uno_counter\bin\Debug\Uno_counter.exe.config
+C:\Users\hidra\source\repos\Uno_counter\bin\Debug\Uno_counter.exe
+C:\Users\hidra\source\repos\Uno_counter\bin\Debug\Uno_counter.pdb
+C:\Users\hidra\source\repos\Uno_counter\obj\Debug\Uno_counter.csprojAssemblyReference.cache
+C:\Users\hidra\source\repos\Uno_counter\obj\Debug\Uno_counter.exe
+C:\Users\hidra\source\repos\Uno_counter\obj\Debug\Uno_counter.pdb
